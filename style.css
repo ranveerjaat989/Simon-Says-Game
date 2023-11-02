@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.btn-container{
+      display: flex;
+      
+      justify-content: center;
+}
+.contain-btn{
+    
+    border: 8px solid rgba(30, 25, 25, 0.822);
+    width: 200px;
+    height: 200px;
+    margin: 0.9rem;
+    border-radius: 15%;
+}
+.yellow{
+    background-color: rgba(212, 154, 37, 0.915);
+}
+.pink{
+    background-color: rgb(229, 147, 160);
+}
+
+.skay{
+    background-color: skyblue;
+}
+.blue{
+    background-color: rgba(42, 42, 166, 0.752);
+}
+.flesh{
+    background-color: aliceblue;
+}
+.user-flesh{
+    background-color: rgba(52, 181, 52, 0.936);
+}
